@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am always seeking to <ins>break down IT complexity</ins></h3>
+<h1 align="center"><q><ins>Breaking down IT complexity</ins></q></h1>
+<h3 align="center"></h3>
 
 <h3>My main topics are:
 <h4>- How to install and configure Cisco / Open-source products<br>
