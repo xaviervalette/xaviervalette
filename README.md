@@ -1,7 +1,7 @@
 <h1 align="center"><q><ins>Breaking down IT complexity</ins></q></h1>
 <h3 align="center"></h3>
 
-<h3>My main topics are:
+<h3>My main focus are:
 <h4>- How to install and configure Cisco / Open-source products<br>
 - How to automate tasks on Cisco / Open-source solutions</h4>
 </h3>
